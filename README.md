@@ -13,9 +13,9 @@ First you will need to install Siri Proxy and when up and running drop this plug
 Drop this into you `~/.siriproxy/config.yml` file:
 
 ' - name: 'Git'' 
-   'git: 'git://github.com/Deanmv/SiriProxy-GoSquared.git''
-   'API: '' Your websites API key.'
-   'token: '' Your websites token key.'
+  ''git: 'git://github.com/Deanmv/SiriProxy-GoSquared.git''
+  ''API: '' Your websites API key.'
+  ''token: '' Your websites token key.'
 
 
 Example is supplied in the configuration.yml in the repo.
@@ -26,12 +26,15 @@ Commands
 --------
 
 'Website current visitors'
+
 Will show you how many visitors are on your website right now..
 
 'Website visitors last week'
+
 Will return an average amount of visitors during the last week.
 
 'Website visitors engagement'
+
 Will return the average amount of time users are actively on your site (in seconds).
 
 
